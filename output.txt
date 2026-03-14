@@ -1,0 +1,14 @@
+Algorithm: Priority Scheduling
+
+Process   Arrival   Burst   Priority   Waiting   Turnaround
+P1        0         4       2          6         10
+P2        1         3       1          0         3
+P3        2         1       3          9         10
+P4        3         2       2          3         5
+P5        4         5       1          5         10
+
+Average Waiting Time: 4.6
+Average Turnaround Time: 7.6
+
+Gantt Chart:
+| P2 | P4 | P1 | P5 | P3 |
