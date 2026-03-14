@@ -33,5 +33,5 @@ The GUI will show:
 ---
 
 ## 🤝 Author
-Manish Rai
+Manish Rai                                                                                        
 M.Tech, DTU | AFI 
